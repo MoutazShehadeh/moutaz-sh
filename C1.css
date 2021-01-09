@@ -1,0 +1,82 @@
+nav
+{
+position: absolute;
+left: 100;
+font-weight:220;
+background: url("CLK.png");	
+ display: block;
+
+		
+}
+nav a
+{
+color: white;
+text-decoration: none;
+font-size: 1.5em;
+margin-left: 30px;
+outline: 0;
+font-family:Imprint MT Shadow;
+			
+}
+nav a:hover
+{
+color: LightGreen;
+}
+a
+{
+text-decoration:none;
+color:white;
+}
+
+
+iframe
+{
+ display: block;
+margin: 0 auto;
+}
+
+form
+{
+margin:0  530px;
+padding:0 480px;
+display: block;
+font-size:1.3em;
+color:white;
+}
+table {
+    font-family:  sans-serif;
+   
+    width: 80%;
+  margin:0 120px;
+ padding:0 75px;
+  height:250px;
+
+}
+
+td, th {
+    border: 1px solid ;
+    text-align: Center;
+    padding: 8px;
+    color:white;
+}
+
+tr {
+    background-color: lightgreen;
+}
+
+.topleft {
+    
+    top: 0px;
+    left: 10px;
+    
+}
+
+img { 
+    width: 20%;
+   
+    
+}
+.Size
+{
+width: 8em;  height: 2em;
+}
